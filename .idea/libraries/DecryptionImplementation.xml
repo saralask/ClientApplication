@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="DecryptionImplementation">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../DecryptionImplementation/out/artifacts/DecryptionImplementation_jar/DecryptionImplementation.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>
